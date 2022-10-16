@@ -1,0 +1,10 @@
+.main {
+  max-width: 1220px;
+  padding: 0 10px;
+  margin: 0 auto;
+}
+
+.headling, .description {
+  text-align: center;
+  font-weight: 400;
+}

@@ -1,0 +1,11 @@
+.my-masonry-grid {
+  display: flex;
+  gap: 20px 20px;
+  width: 100%;
+}
+
+.my-masonry-grid_column > span {
+  display: block !important;
+  margin-bottom: 20px !important;
+  cursor: pointer;
+}

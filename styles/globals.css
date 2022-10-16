@@ -1,0 +1,33 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.br-50 {
+  border-radius: 50%;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.mt-10vh {
+  margin-top: 10vh;
+}
+
+.mb-10vh {
+  margin-bottom: 10vh;
+}
